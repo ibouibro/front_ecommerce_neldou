@@ -1,0 +1,12 @@
+---------
+FAIT
+02:11 18/04/2020
+Modification interface graphique manuellement : de grande ampleur
+Lieu : Salon 5 CDE Ouest Foire Dakar Senegal
+Grande table
+------------------
+
+
+-------------
+A FAIRE  PLUTARD
+Modifier interface : oneItem
