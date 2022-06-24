@@ -117,13 +117,9 @@ setTimeout(function() {
         <!--  notification end -->
       </div>
       <div class="top-menu">
-      <a class="dropdown-item" href="{{ route('logout') }}"
-                                       onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">
-                                        {{ __('Logout') }}
-                                    </a>
+     
         <ul class="nav pull-right top-menu">
-          <li><a class="logout" href="deconnecter"> <i class="fa fa-user"></i> {{" "}}Logout</a></li>
+          <li><a class="logout" href="logout"> <i class="fa fa-user"></i> {{" "}}Logout</a></li>
         </ul>
       </div>
 
